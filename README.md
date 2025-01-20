@@ -10,5 +10,8 @@ brew install starship
 
 # Copy starship.toml fiel to ~/.config folder
 
+# Theme 1
 ![alt text](https://github.com/mayurbarge/Starship-Theme/blob/main/Screenshot%202025-01-20%20at%2018.42.32.png)
+
+# Theme 2
 ![alt text](https://github.com/mayurbarge/Starship-Theme/blob/main/Screenshot%202025-01-20%20at%2018.44.12.png)
