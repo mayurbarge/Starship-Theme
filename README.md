@@ -9,6 +9,7 @@ brew install --cask font-fira-code-nerd-font
 brew install starship
 
 # Copy starship.toml fiel to ~/.config folder
+Follow https://starship.rs/guide/#%F0%9F%9A%80-installation for specific steps for your shell.
 
 # Theme 1
 ![alt text](https://github.com/mayurbarge/Starship-Theme/blob/main/Screenshot%202025-01-20%20at%2018.42.32.png)
